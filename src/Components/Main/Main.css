@@ -1,0 +1,25 @@
+.container{
+    width:50%;
+    height:auto;
+    margin:100px auto;
+}
+.container-card{
+    margin-top:50px;
+}
+.Image-container{
+    width:50%;
+    height:100%;
+
+}
+.Image-container img{
+    height:100%;
+    width:100%;
+}
+.container-card{
+    display: flex;
+    gap:2rem;
+}
+.to_flex_desc{
+    display: flex;
+    gap:3rem;   
+}
